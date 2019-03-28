@@ -147,14 +147,23 @@ MonoBehaviour:
   waypoints: []
   _target: {fileID: 1092171852}
   _maxSpeed: 20
+<<<<<<< HEAD
   _maxAcceleration: 10
   _maxBrakeForce: 18
+=======
+  _maxAcceleration: 5
+  _maxBrakeForce: 8
+>>>>>>> 450654cebd18cd272d2c89244720a04a78fdbcdb
   _velocity: {x: 0, y: 0, z: 0}
   _targetVelocity: {x: 0, y: 0, z: 0}
   _targetSpeed: 0
   currentPoint: 0
   _targetRadius: 5
+<<<<<<< HEAD
   _slowRadius: 10
+=======
+  _slowRadius: 20
+>>>>>>> 450654cebd18cd272d2c89244720a04a78fdbcdb
   distance: 0
 --- !u!23 &12145293
 MeshRenderer:

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="A:\Project Unity\KbGame\GAI7_1_Waypoint\GAI3_2_Kinematik_steering_Collision" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="GAI3_Steering" t="Include">
+          <e p="Script" t="Include">
+            <e p="Circle.cs" t="Include" />
+            <e p="Formation.cs" t="Include" />
+            <e p="SteeringData.cs" t="Include" />
+            <e p="SteerSeek.cs" t="Include" />
+            <e p="SteerSeekArrive.cs" t="Include" />
+            <e p="SteerSeekColl.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="GAI3_2_Kinematik_steering_Collision.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="C:\Users\Project F\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Project F\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_GAI3_2_Kinematik_steering_Collision.1147447644.00" t="ExcludeRecursive" />
+  </component>
+</project>
